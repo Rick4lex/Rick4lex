@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/rick4lex/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:cfb.dig@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
-<img src="https://drive.google.com/file/d/1veW8Vn89YiWWFc2UbPkE5t6N1QF9OTE0/view?usp=sharing">
+<img src="https://res.cloudinary.com/dyeppbrfl/image/upload/t_Banner 16:9/v1731966758/export202211301432236920_c9vehf.png">
   
 <hr/>
 
@@ -35,8 +35,8 @@ Ricardo did this!
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rick4lex&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rick4lex&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
