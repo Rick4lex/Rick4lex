@@ -29,7 +29,7 @@ alt="azzar" ></a>
 <br>     | Me apasionan los temas tecnológicos 
 - ⭐ Currently learning Web Development by Self ⭐
 <br>     | Actualmente estoy aprendiendo Desarrollo Web por mi cuenta
-- 🎥 I’m currently open for an Intern or a new job opportunity, this is [my CV](https://read.cv/0xabdulkhalid)
+- 🎥 I’m currently open for an Intern or a new job opportunity, this is [my CV](https://rick4lex.github.io/Rick4lex.github.oi/)
 <br>     | Actualmente estoy abierto para pasantia o una nueva oportunidad laboral
 - 🤝 I’m like to help with **Backend Design**
 <br>     | Me gusta ayudar con Diseño Backend
