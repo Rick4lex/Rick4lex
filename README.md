@@ -11,15 +11,12 @@ alt="azzar" ></a>
 <img src="https://res.cloudinary.com/dyeppbrfl/image/upload/v1732003283/JPG_sEPT_banner_dila8f.jpg">
 
 
-<div>
-  <img align="right" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width=210px >
-</div>
 <hr/>
 
 # Hello world 
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=violet&size=25&center=true&vCenter=true&width=700&height=100&lines=Hey%2C+I+am+Ricklex;Welcome+to+My+GitHub+Profile,;I+am+Tester,;Manual+and+Automated+Tests,;UX/UI+Fundamentals,;Design+Test+Cases,;QA+Lead,;Music+and+Programming+Lover,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=700&height=100&lines=Hey%2C+I+am+Ricklex;Welcome+to+My+GitHub+Profile,;I+am+Tester,;Manual+and+Automated+Tests,;UX/UI+Fundamentals,;Design+Test+Cases,;QA+Lead,;Music+and+Programming+Lover,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3" align="center">
   </a>
 </p>
 <div>
@@ -28,12 +25,18 @@ alt="azzar" ></a>
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About me | Sobre mi
 
-- ✏️ I’m passionate about technological topics 
-- ⭐ Currently learning Web Development by Self ⭐ 
+- ✏️ I’m passionate about technological topics
+<br>     | Me apasionan los temas tecnológicos 
+- ⭐ Currently learning Web Development by Self ⭐
+<br>     | Actualmente estoy aprendiendo Desarrollo Web por mi cuenta
 - 🎥 I’m currently open for an Intern or a new job opportunity, this is [my CV](https://read.cv/0xabdulkhalid)
-- 🤝 I’m looking for help with **Backend Design**
+<br>     | Actualmente estoy abierto para pasantia o una nueva oportunidad laboral
+- 🤝 I’m like to help with **Backend Design**
+<br>     | Me gusta ayudar con Diseño Backend
 - ✍️ In my free time, I pursue Graphic Design
+<br>     | En mi tiempo libre, me dedico al Diseño Gráfico
 - 💡 I like to explore new tools and develop software solutions and quick hacks
+<br>     | Me gusta explorar nuevas herramientas y desarrollar soluciones de software y trucos rápidos
 
 <hr/>
 
@@ -62,7 +65,7 @@ alt="azzar" ></a>
 <hr/>
 
 ### 🎖 My Badges
-<img src="https://acreditta-rutas-prod.s3.amazonaws.com/media/public/badge_templates/images/1894_badge_template_100287f6-dcb4-4aee-a225-9806ee419458/original.png" align="center" width = 300px>
+<a href="https://www.acreditta.com/credential/96162d03-a14b-403c-a391-916bb09e4591?utm_source=linkedin_profile&resource_type=badge&resource=96162d03-a14b-403c-a391-916bb09e4591"><img src="https://acreditta-rutas-prod.s3.amazonaws.com/media/public/badge_templates/images/1894_badge_template_100287f6-dcb4-4aee-a225-9806ee419458/original.png" align="center" width = 300px></a>
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats 🏆Trophies ⚙️ Analytics
@@ -72,22 +75,23 @@ alt="azzar" ></a>
 </p>
     
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/Rick4lex">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rick4lex&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rick4lex&layout=compact&langs_count=8&theme=algolia"/>
   <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Rick4lex&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+  
 </a>
 </p>
 
 
+---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://www.acreditta.com/credential/96162d03-a14b-403c-a391-916bb09e4591?utm_source=linkedin_profile&resource_type=badge&resource=96162d03-a14b-403c-a391-916bb09e4591"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align='center'>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> [Ricklex](https://github.com/Rick4lex) did this! </b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" align="center" width = 50px></picture>
 
 </div>
-
 
 
 <!--
@@ -115,6 +119,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
 </p>
+* <img align="center" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width=210px >
 
 <br />
 
