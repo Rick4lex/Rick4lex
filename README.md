@@ -11,14 +11,16 @@ alt="azzar" ></a>
 <img src="https://res.cloudinary.com/dyeppbrfl/image/upload/v1732003283/JPG_sEPT_banner_dila8f.jpg">
 
 
+<div>
+  <img align="right" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width=210px >
+</div>
 <hr/>
 
 # Hello world 
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=violet&size=25&center=true&vCenter=true&width=700&height=100&lines=Hey%2C+I+am+Ricklex;Welcome+to+My+GitHub+Profile,;I+am+Tester,;Manual+and+Automated+Tests,;UX/UI+Fundamentals,;Design+Test+Cases,;QA+Lead,;Music+and+Programming+Lover,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3" align="center">
   </a>
-  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="center" width = 200px>
 </p>
 <div>
   <img align="right" width="40%" src="https://res.cloudinary.com/dyeppbrfl/image/upload/v1731995689/export202402021147547250_yxabdo.png">
@@ -79,7 +81,7 @@ alt="azzar" ></a>
 
 
 
-<a href="https://www.acreditta.com/credential/96162d03-a14b-403c-a391-916bb09e4591?utm_source=linkedin_profile&resource_type=badge&resource=96162d03-a14b-403c-a391-916bb09e4591"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://www.acreditta.com/credential/96162d03-a14b-403c-a391-916bb09e4591?utm_source=linkedin_profile&resource_type=badge&resource=96162d03-a14b-403c-a391-916bb09e4591"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align='center'>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> [Ricklex](https://github.com/Rick4lex) did this! </b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" align="center" width = 50px></picture>
