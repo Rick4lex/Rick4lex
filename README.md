@@ -32,7 +32,7 @@ alt="azzar" ></a>
 - 🎥 I’m currently open for an Intern or a new job opportunity, this is [my CV](https://rick4lex.github.io/Rick4lex.github.oi/)
 <br>     | Actualmente estoy abierto para pasantia o una nueva oportunidad laboral
 - 🤝 I would like to help in **Backend Design**
-<br>     | Me gustaria ayudar in Diseño Backend
+<br>     | Me gustaria ayudar en Diseño Backend
 - ✍️ In my free time, I pursue Graphic Design
 <br>     | En mi tiempo libre, me dedico al Diseño Gráfico
 - 💡 I like to explore new tools and develop software solutions and quick hacks
