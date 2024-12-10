@@ -26,7 +26,9 @@ alt="azzar" ></a>
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About me | Sobre mi
 
 - ✏️ I’m passionate about technological topics
-<br>     | Me apasionan los temas tecnológicos 
+<br>     | Me apasionan los temas tecnológicos
+- 💻 I’m a junior QA tester with knowledge in automation
+<br>     | Soy un probador de control de calidad junior con conocimiento en automatización 
 - ⭐ Currently learning Web Development by Self ⭐
 <br>     | Actualmente estoy aprendiendo Desarrollo Web por mi cuenta
 - 🎥 I’m currently open for an Intern or a new job opportunity, this is [my CV](https://rick4lex.github.io/Rick4lex.github.oi/)
