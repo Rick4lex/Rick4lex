@@ -31,7 +31,7 @@ alt="azzar" ></a>
 <br>     | Soy un probador de control de calidad junior con conocimiento en automatización 
 - ⭐ Currently learning Web Development by Self ⭐
 <br>     | Actualmente estoy aprendiendo Desarrollo Web por mi cuenta
-- 🎥 I’m currently open for an Intern or a new job opportunity, this is [my CV](https://rick4lex.github.io/Rick4lex.github.oi/)
+- 🎥 I’m currently open for an Intern or a new job opportunity, this is [my CV](https://rick4lex.github.io/cv/)
 <br>     | Actualmente estoy abierto para pasantia o una nueva oportunidad laboral
 - 🤝 I would like to help in **Backend Design**
 <br>     | Me gustaria ayudar en Diseño Backend
