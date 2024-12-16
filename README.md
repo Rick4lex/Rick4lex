@@ -51,7 +51,7 @@ alt="azzar" ></a>
 <a href="/" target="_blank"><img src="https://res.cloudinary.com/dyeppbrfl/image/upload/v1734389602/MINDHUB_BROTHER_BANK_Copy_wytdgu.jpg" width="400" alt="WEB APOLO"></a>
 <p>
 <a href="https://github.com/Rick4lex/RESERVA-EN-UNA-SALA-DE-CINE.git" target="_blank">
-<img src="https://img.shields.io/badge/Repositorio-ff9?style=for-the-badge&logo=github&logoColor=black&color=4285f4">
+<img src="https://img.shields.io/badge/Repositorio-ff9?style=for-the-badge&logo=github&logoColor=FFFFFF&color=0b5394">
 </a>
 <a href="/" target="_blank">
 <img src="https://img.shields.io/badge/-Flujo-green?style=for-the-badge&color=7761d3">
