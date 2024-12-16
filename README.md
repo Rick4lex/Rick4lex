@@ -42,6 +42,40 @@ alt="azzar" ></a>
 
 <hr/>
 
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Web Teatro Apolo</h3>
+<div align="center">
+<a href="/" target="_blank"><img src="https://res.cloudinary.com/dyeppbrfl/image/upload/v1734389602/MINDHUB_BROTHER_BANK_Copy_wytdgu.jpg" width="400" alt="WEB APOLO"></a>
+<p>
+<a href="https://github.com/Rick4lex/RESERVA-EN-UNA-SALA-DE-CINE.git" target="_blank">
+<img src="https://img.shields.io/badge/Repositorio-ff9?style=for-the-badge&logo=github&logoColor=black&color=4285f4">
+</a>
+<a href="/" target="_blank">
+<img src="https://img.shields.io/badge/-Flujo-green?style=for-the-badge&color=7761d3">
+</a>
+</p>
+<p>El <strong>Teatro Apolo</strong> no es solo un sistema Web de Reservas y Gestión de las salas de cine, sino una comunidad especializada donde el cine de culto es estudiado, debatido y apreciado.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Desarrollando...</h3>
+<div align="center">
+<a href="/"><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" width="100" alt="Cargando..."></a>
+<p>
+
+</p>
+<p> <strong></strong> </p>
+</div>
+                                                                                      
+</td>  
+</table>         
+
+
 ### :star: Skillset:
 
 #### **Task Management**
@@ -78,8 +112,8 @@ alt="azzar" ></a>
     
 <p align="center">
 <a href="https://github.com/Rick4lex">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rick4lex&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rick4lex&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rick4lex&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rick4lex&layout=compact&langs_count=8&theme=algolia"/>
   <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Rick4lex&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
   
 </a>
