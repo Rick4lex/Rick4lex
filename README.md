@@ -53,8 +53,8 @@ alt="azzar" ></a>
 <a href="https://github.com/Rick4lex/RESERVA-EN-UNA-SALA-DE-CINE.git" target="_blank">
 <img src="https://img.shields.io/badge/Repositorio-ff9?style=for-the-badge&logo=github&logoColor=FFFFFF&color=0b5394">
 </a>
-<a href="/" target="_blank">
-<img src="https://img.shields.io/badge/-Flujo-green?style=for-the-badge&color=7761d3">
+<a href="https://my-vue-app-teatro-apolo-rick4lex-ricklexs-projects.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=7761d3">
 </a>
 </p>
 <p>El <strong>Teatro Apolo</strong> no es solo un sistema Web de Reservas y Gestión de las salas de cine, sino una comunidad especializada donde el cine de culto es estudiado, debatido y apreciado.</p>
