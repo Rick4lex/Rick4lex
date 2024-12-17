@@ -53,11 +53,12 @@ alt="azzar" ></a>
 <a href="https://github.com/Rick4lex/RESERVA-EN-UNA-SALA-DE-CINE.git" target="_blank">
 <img src="https://img.shields.io/badge/Repositorio-ff9?style=for-the-badge&logo=github&logoColor=FFFFFF&color=0b5394">
 </a>
-<a href="https://my-vue-app-teatro-apolo-rick4lex-ricklexs-projects.vercel.app/" target="_blank">
+<a href="https://my-vue-app-teatro-apolo.vercel.app//" target="_blank">
 <img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=7761d3">
 </a>
 </p>
 <p>El <strong>Teatro Apolo</strong> no es solo un sistema Web de Reservas y Gestión de las salas de cine, sino una comunidad especializada donde el cine de culto es estudiado, debatido y apreciado.</p>
+  <img src="https://skillicons.dev/icons?i=vite,react,supabase,vercel">
 </div>
                                                                                       
 </td>       
@@ -84,6 +85,11 @@ alt="azzar" ></a>
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
+| Languages | Front-End Development | Softwares and Tools | Automation |
+|---|---|---|---|
+| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,windows)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev) |
+
+<!--
 #### **Languages**:
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 #### **Front-End Development**:
@@ -94,7 +100,7 @@ alt="azzar" ></a>
 [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
 #### 🗃 **Databases**
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
-
+-->
 ## ✨ Extras
 [![My Skills](https://skillicons.dev/icons?i=discord,ai,figma,gmail,obsidian)](https://skillicons.dev)
 
