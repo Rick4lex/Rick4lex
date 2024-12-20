@@ -42,6 +42,32 @@ alt="azzar" ></a>
 
 <hr/>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Desarrollando...</h3>
+<div align="center">
+<a href="/"><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" width="100" alt="Cargando..."></a>
+<p>
+
+</p>
+<p> <strong></strong> </p>
+</div>
+                                                                                      
+</td>         
+
+<td width="50%">
+<h3 align="center">Desarrollando...</h3>
+<div align="center">
+<a href="/"><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" width="100" alt="Cargando..."></a>
+<p>
+
+</p>
+<p> <strong></strong> </p>
+</div>
+                                                                                      
+</td>  
+</table> 
 
 <table>
 <tr>
@@ -57,20 +83,25 @@ alt="azzar" ></a>
 <img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=7761d3">
 </a>
 </p>
-<p>El <strong>Teatro Apolo</strong> no es solo un sistema Web de Reservas y Gestión de las salas de cine, sino una comunidad especializada donde el cine de culto es estudiado, debatido y apreciado.</p>
+<p>El <strong>Teatro Apolo</strong> no es solo un sistema Web de Reservas y Gestión de las salas de cine.</p>
   <img src="https://skillicons.dev/icons?i=vite,react,supabase,vercel">
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Desarrollando...</h3>
+<h3 align="center">Proyecto Testing & UX/UI</h3>
 <div align="center">
-<a href="/"><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" width="100" alt="Cargando..."></a>
+<a href="https://github.com/bvargas7/Challenger"><img src="https://res.cloudinary.com/dyeppbrfl/image/upload/v1734717304/MINDHUB_BROTHER_BANK_Copy_1_n2gpv7.jpg" width="400" alt="MHBB"></a>
 <p>
+  <a href="https://frontend-react-homebanking.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Web Testing-green?style=for-the-badge&color=7761d3"></a>
+  <a href="https://www.figma.com/proto/IhsZu4YNGjyr1drtrOseYR/MINDHUB-BROTHER-BANK-(MHBB)?node-id=28-2&p=f&t=22uoBDFtitX87v41-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=7%3A154" target="_blank">
+  <img src="https://img.shields.io/badge/-Prototype-green?style=for-the-badge&color=7761d3"></a>
 
 </p>
-<p> <strong></strong> </p>
+<p> El proyecto <strong>Homebanking</strong> hizo parte de un challenge donde el objetivo fue cumplir con los requerimientos, encontrar bugs y analizar la web para determinar si puede ser desplegada a produccion  </p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,postman,selenium,figma" >
 </div>
                                                                                       
 </td>  
