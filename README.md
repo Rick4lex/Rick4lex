@@ -42,7 +42,8 @@ alt="azzar" ></a>
 
 <hr/>
 
-<table>
+
+<table >
 <tr>
 <td width="50%">
 <h3 align="center">Desarrollando...</h3>
@@ -56,14 +57,14 @@ alt="azzar" ></a>
                                                                                       
 </td>         
 
-<td width="50%">
-<h3 align="center">Desarrollando...</h3>
+<td width="1000" style="vertical-align: top;">
+<h3 align="center">E-Commerce</h3>
 <div align="center">
-<a href="/"><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" width="100" alt="Cargando..."></a>
+<a href="/"><img src="https://res.cloudinary.com/dyeppbrfl/image/upload/v1734886949/Historia_de_Instagram_Promoci%C3%B3n_Negocio_Ilustrado_Rosa_y8y3lh.png" width="400" alt="CFB"></a>
 <p>
 
 </p>
-<p> <strong></strong> </p>
+<p>Proyecto web para venta e informacion de productos y servicios ofertados <strong></strong> </p>
 </div>
                                                                                       
 </td>  
@@ -71,7 +72,7 @@ alt="azzar" ></a>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="vertical-align: top;">
 <h3 align="center">Web Teatro Apolo</h3>
 <div align="center">
 <a href="/" target="_blank"><img src="https://res.cloudinary.com/dyeppbrfl/image/upload/v1734389602/MINDHUB_BROTHER_BANK_Copy_wytdgu.jpg" width="400" alt="WEB APOLO"></a>
@@ -83,13 +84,13 @@ alt="azzar" ></a>
 <img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=7761d3">
 </a>
 </p>
-<p>El <strong>Teatro Apolo</strong> no es solo un sistema Web de Reservas y Gestión de las salas de cine.</p>
+<p>El <strong>Teatro Apolo</strong> no es solo un sistema Web de Reservas y Gestión de las salas de cine. Este proyecto fomenta el analisis profundo y dialogo colectivo en comunidades digitales con interacciones dinamicas </p>
   <img src="https://skillicons.dev/icons?i=vite,react,supabase,vercel">
 </div>
                                                                                       
 </td>       
 
-<td width="50%">
+<td width="50%" style="vertical-align: top;">
 <h3 align="center">Proyecto Testing & UX/UI</h3>
 <div align="center">
 <a href="https://github.com/bvargas7/Challenger"><img src="https://res.cloudinary.com/dyeppbrfl/image/upload/v1734717304/MINDHUB_BROTHER_BANK_Copy_1_n2gpv7.jpg" width="400" alt="MHBB"></a>
@@ -100,12 +101,14 @@ alt="azzar" ></a>
   <img src="https://img.shields.io/badge/-Prototype-green?style=for-the-badge&color=7761d3"></a>
 
 </p>
-<p> El proyecto <strong>Homebanking</strong> hizo parte de un challenge donde el objetivo fue cumplir con los requerimientos, encontrar bugs y analizar la web para determinar si puede ser desplegada a produccion  </p>
+<p> El proyecto <strong>Homebanking</strong> hizo parte de un challenge donde el objetivo fue cumplir con los requerimientos del cliente, encontrar bugs y analizar la web para determinar si puede ser desplegada a produccion  </p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,postman,selenium,figma" >
 </div>
                                                                                       
 </td>  
-</table>         
+</table>    
+
+
 
 
 ### :star: Skillset:
