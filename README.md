@@ -121,7 +121,7 @@ alt="azzar" ></a>
 
 | Languages | Front-End Development | Softwares and Tools | Automation |
 |---|---|---|---|
-| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,windows)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,firebase,postman,windows)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev) |
 
 <!--
 #### **Languages**:
